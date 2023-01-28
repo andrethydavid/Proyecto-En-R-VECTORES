@@ -13,3 +13,6 @@ Total_tiempo_platzi
 total_tiempo_adicional <- Total_tiempo_platzi + total_tiempo_lecturas
 total_tiempo_adicional
 
+![image](https://user-images.githubusercontent.com/72534486/215239797-8515632b-f95c-40b5-bcef-ab4def1345dd.png)
+
+![image](https://user-images.githubusercontent.com/72534486/215239807-33e740e3-bec8-47e3-a6ca-12700765282b.png)
