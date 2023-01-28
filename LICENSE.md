@@ -1,4 +1,8 @@
-tiempo_platzi <- c (25,5,10,15,10)
+¿busqueda de cuanto timpo inviertes estudiando en le mas realisando verctores y matrices  en r ?
+
+!ESTE ALGORITMO SOLO SE PUEDE SEALIZAR EN R !
+
+
 tiempo_lecturas <- c(30,10,15,3)
 tiempo_aprendizaje <- tiempo_platzi + tiempo_lecturas
 tiempo_aprendizaje
