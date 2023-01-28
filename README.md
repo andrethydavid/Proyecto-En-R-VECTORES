@@ -1,5 +1,9 @@
-Vectores
-Un vector es la estructura de datos más sencilla en R. Un vector es una colección de uno o más datos del mismo tipo.
+
+
+
+Un vector es la estructura de datos más sencilla en R. Un vector es una colección de uno o más datos del mismo ti
+![image](https://user-images.githubusercontent.com/72534486/215239624-416ac6cb-ec4d-41af-bda5-c980b76819bf.png)
+
 
 Todos los vectores tienen tres propiedades:
 
