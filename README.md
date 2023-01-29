@@ -5,4 +5,4 @@ Un vector es la estructura de datos más sencilla en R. Un vector es una colecci
 
 En este preoyecto vamos a ver  cuanto teimpo estudia el estudiante, en cuento tiempo aprende y sobre todo descansa.
 
-
+00
