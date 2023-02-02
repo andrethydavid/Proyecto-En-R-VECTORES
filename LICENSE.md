@@ -1,6 +1,13 @@
-¿busqueda de cuanto timpo inviertes estudiando en le mas realisando verctores y matrices  en r ?
+# ¿busqueda de cuanto tiempo invierte estudiando en le mas realizando verctores y matrices en r? . 🧠 
 
-!ESTE ALGORITMO SOLO SE PUEDE SEALIZAR EN R !
+### OBSERVACIONES 
+> Este codigo solo se puede realizar en R 
+
+> el problema es como realizar un algoritmo usando  variables y vectores para  que el estudiante mejores sus tiempos de estudio 
+
+
+## CODIGO 
+
 
 
 tiempo_lecturas <- c(30,10,15,3)
