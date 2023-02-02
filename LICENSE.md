@@ -44,3 +44,5 @@ tiempo_matriz
 
 colSums(tiempo_matriz)                     
 ```
+
+![image](https://user-images.githubusercontent.com/72534486/216222376-02312445-a499-413f-b49f-2581b8318f68.png)
